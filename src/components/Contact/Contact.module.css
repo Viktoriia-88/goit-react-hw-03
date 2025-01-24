@@ -1,0 +1,31 @@
+.contact {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 360px;
+    height: 82px;
+    margin-bottom: 15px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon {
+    margin-right: 10px;
+}
+
+.date {
+    display: flex;
+    flex-direction: column;
+}
+
+.dateValue {
+    display: flex;
+    align-items: center;
+}
+
+.button {
+    width: 75px;
+    height: 35px;
+    font-size: 18px;
+}
